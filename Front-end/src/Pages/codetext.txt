@@ -1,0 +1,47 @@
+import React from 'react'
+
+
+const section = () => {
+  return (
+    <div className="section  ">
+      <h1 className="section-titre">
+        <span className="Titre1">#YouBio</span>
+        <span>cosmetique</span>
+      </h1>
+      <div className="wrapper">
+        <div className="membre image-membre1 ">
+          <div className="overly bottom">
+            <div className="middle">
+              <h5 className="name-section">Huile</h5>
+            </div>
+          </div>
+        </div>
+
+        <div className="membre image-membre2">
+          <div className="overly bottom">
+            <div className="middle">
+              <h5 className="name-section">Argane</h5>
+            </div>
+          </div>
+        </div>
+
+        <div className="membre image-membre3">
+          <div className="overly bottom">
+            <div className="middle">
+              <h5 className="name-section">Créme</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default section
+
+
+
+https://www.youtube.com/watch?v=jOviw8Ou_Yk&t=301s
+
+
+service_5wbiyxr
